@@ -10,7 +10,7 @@ body {
 
 h1 {
   color: #dd0f00;
-  font-size: 16px;
+  font-size: 20px;
   margin: 15px 0 8px;
 }
 
@@ -27,6 +27,7 @@ h3 {
 
 section {
   margin: 20px 20px 20px 0;
+  width: 300px;
   background: #fff;
   border-radius: 15px;
   padding: 30px;
